@@ -4,10 +4,11 @@
 
 # Alvin.V1 Projects
 
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![VSCode Icon](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
+![Python Icon](https://img.icons8.com/color/48/000000/python.png)
+![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png)
+![Java Icon](https://img.icons8.com/color/48/000000/java.png)
+
 
 ## Description
 A brief description of what your project does and why it is useful.
