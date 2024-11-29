@@ -8,7 +8,8 @@
 ![Python Icon](https://img.icons8.com/color/48/000000/python.png)
 ![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png)
 ![Java Icon](https://img.icons8.com/color/48/000000/java.png)
-
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
 
 ## Description
 A brief description of what your project does and why it is useful.
