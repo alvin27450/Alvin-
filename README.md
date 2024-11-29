@@ -7,7 +7,9 @@
 ![VSCode Icon](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
 ![Python Icon](https://img.icons8.com/color/48/000000/python.png)
 ![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png)
-![Java Icon](https://img.icons8.com/color/48/000000/java.png)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
 
